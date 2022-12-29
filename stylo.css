@@ -1,0 +1,12 @@
+body{
+    background-color:#E5E5E5 ;
+}
+
+.logo{
+   padding-left: 40px;
+   padding-top: 40px;
+}
+.copyright{
+    text-align: center;
+    color: black;
+}
